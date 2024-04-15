@@ -1,4 +1,4 @@
-# Iris_Flower_Classification
+# Iris Flower Classification
 Machine Learning Project
 
 Welcome to this GitHub repository, a comprehensive guide to Iris flower classification. The Iris flower dataset is a well-known benchmark in machine learning, featuring three species: Versicolor, Sentosa, and Virginica. Each species is defined by four attributes: sepal length, sepal width, petal length, and petal width.
